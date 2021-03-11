@@ -1,0 +1,9 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Views"
+    id="id-5ceb9b3a6083466e9db09c8b77a23658"
+    type="diagrams">
+  <features
+      name="labelExpression"
+      value="${name} (${viewpoint})"/>
+</archimate:Folder>

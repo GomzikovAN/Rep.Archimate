@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="список идентификаторов AR стикеров для текущего кадра и их координаты"
+    id="id-c698ee3524be4a1fac10673e883da150">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-2f0a227b628c4c389af582b35fe5d7b1.xml#id-2f0a227b628c4c389af582b35fe5d7b1"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-833677d8473a4adfa8f46544d74966ca.xml#id-833677d8473a4adfa8f46544d74966ca"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10 Гб"
+    id="id-608132b7c1734239ae2c34d73624342c">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-1ee8ae117f4b471392a9b63e1a88904f.xml#id-1ee8ae117f4b471392a9b63e1a88904f"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-227f4643dad1421696e72c9e056d5b67.xml#id-227f4643dad1421696e72c9e056d5b67"/>
+</archimate:ServingRelationship>

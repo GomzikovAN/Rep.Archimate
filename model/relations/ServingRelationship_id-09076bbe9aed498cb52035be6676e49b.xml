@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="текущий кадр"
+    id="id-09076bbe9aed498cb52035be6676e49b">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-71799d1afea04bf691959c24e49f9536.xml#id-71799d1afea04bf691959c24e49f9536"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-2f0a227b628c4c389af582b35fe5d7b1.xml#id-2f0a227b628c4c389af582b35fe5d7b1"/>
+</archimate:ServingRelationship>

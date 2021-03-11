@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1Гбит/сек Ethernet  "
+    id="id-3af999de55a546e4a00ad80d7ed60ef2">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-917c03600a2042cb859ed827709fdeac.xml#id-917c03600a2042cb859ed827709fdeac"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-dccdb20a58a641998c2c91e0732d7b47.xml#id-dccdb20a58a641998c2c91e0732d7b47"/>
+</archimate:ServingRelationship>

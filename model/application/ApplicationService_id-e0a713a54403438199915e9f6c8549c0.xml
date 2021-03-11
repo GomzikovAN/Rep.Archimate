@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GUI: состояние оправок"
+    id="id-e0a713a54403438199915e9f6c8549c0"
+    documentation="Для просмотра состояния оправок и получения предупреждения о критических дефектах"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GUI: состояние плети"
+    id="id-b9b722f7f0dc45eb9f65add262429609"
+    documentation="Для просмотра состояния труб получения предупреждения о критических дефектах"/>
